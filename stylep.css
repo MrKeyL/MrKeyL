@@ -1,0 +1,39 @@
+html {
+  font-family: sans-serif;
+}
+
+.logo {
+	text-align: center;
+	background-color: #292929;
+	height: 170px;
+}
+
+.gif {
+	width: 339px;
+	height: 339px;
+	padding: 20px;
+}
+
+.fotos {
+	text-align: center;
+	margin-right: 60px;
+}
+
+.left {
+	width: 454px;
+	height: 339px;
+	padding: 20px;
+}
+
+.right {
+	width: 339px;
+	height: 339px;
+	padding: 20px;
+}
+
+.disc {
+	font-family: 'Waiting for the Sunrise', cursive; 
+	text-align: center;
+	margin-top: 10px;
+	font-size: 30px;
+}
